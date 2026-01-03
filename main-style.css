@@ -1,0 +1,20 @@
+html, body {
+    min-height: 100vh;
+}
+
+.full-height{
+    margin: auto;
+    vertical-align: middle;
+}
+
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
+
+hr.dotted {
+  border-top: 3px dotted #bbb;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
